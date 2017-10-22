@@ -25,4 +25,5 @@ Also played around cleaning and standardizing the dataset.
 
 - Clone the repository
 - Change the parameters of `Grid-Search` (optional)
-- Run the program
+- Run the file corresponding to the classifier you want.
+  eg `python svm.py`
